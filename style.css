@@ -18,12 +18,15 @@ body {
     flex-direction: column;
 }
 
+input{
+    margin-top: 3rem;
+}
 #random {
     color: white;
     background-color: purple;
     font-size: 20px;
     border: none;
-    margin-top: 1rem;
+    margin-top: 2rem;
     text-align: center;
     margin-bottom: 1rem;
 }
